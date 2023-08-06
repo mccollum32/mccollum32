@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mccollum32
 - 👀 I’m interested in ...Computer Programming/ Development
-- 🌱 I’m currently learning .../JAVA/C#/Unity/Linux
+- 🌱 I’m currently learning .../C#/C++/.Net/C
 - 💞️ I’m looking to collaborate on ...Anything programming related
 - 📫 How to reach me ...mccollum.joseph3232@gmail.com
 
